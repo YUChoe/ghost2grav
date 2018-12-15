@@ -13,7 +13,7 @@
 ## Installing and Running
 
 ```
-$ git clone https://
+$ git clone https://github.com/YUChoe/ghost2grav.git
 $ cd ghost2grav
 $ python3 -m venv venv
 $ source venv/bin/activate
@@ -29,6 +29,10 @@ $ source venv/bin/activate
 ### Tip - Wordpress to Grav Migration
 1. Wordpress to Ghost [https://github.com/jonhoo/wp2ghost](https://github.com/jonhoo/wp2ghost)
 2. Ghost to Grav 
+
+## TODO
+* test 
+* pypi
 
 ## License
 Ghost2Grav is MIT-licensed, as found in the LICENSE.txt file.
